@@ -1,0 +1,19 @@
+{
+  "name": "techlab-challenge-2024-3q",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend-backoffice",
+    "frontend-chat"
+  ],
+  "devDependencies": {
+    "@eslint/js": "^9.5.0",
+    "@types/eslint__js": "^8.42.3",
+    "eslint": "^9.5.0",
+    "typescript": "^5.5.2",
+    "typescript-eslint": "^7.13.1"
+  },
+  "packageManager": "yarn@4.3.0"
+}
